@@ -149,5 +149,5 @@ A guide to using LaTeX for equations, formulas, and variables.
 
 Image Attributions:
 
-- [Logo image by lumix2004 (Pixabay)](https://pixabay.com/photos/lighthouse-ocean-sea-coast-travel-1872998/)
-- [Header Image by David Mark (Pixabay)](https://pixabay.com/photos/fields-clouds-mountains-mountainous-1589613/)
+- [Logo image by StartupStockPhotos (Pixabay)](https://pixabay.com/users/startupstockphotos-690514)
+- [Header Image by UBC Brand and Marketing](https://www.flickr.com/photos/134760388@N08/19467250624/in/album-72157656112341170/)
